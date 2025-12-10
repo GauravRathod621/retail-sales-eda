@@ -45,4 +45,4 @@ Correlation Heatmap
 ✨ Author
 
 Gaurav Rathod
-([Your GitHub](https://github.com/GauravRathod621) / LinkedIn link add kar sakte ho)
+([Your GitHub](https://github.com/GauravRathod621) / www.linkedin.com/in/gaurav-rathod-95141b350)
